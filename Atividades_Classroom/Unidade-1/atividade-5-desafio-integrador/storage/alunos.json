@@ -1,0 +1,29 @@
+[
+    {
+        "nome": "joao paulo de albuquerque alves",
+        "email": "joaopauloalbuquerque5777@gmail.com",
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "turno": "Noturno",
+        "nota": "7.0",
+        "situacao": "Aprovado",
+        "criadoEm": "2026-03-25 00:15:15"
+    },
+    {
+        "nome": "joao paulo de albuquerque alves",
+        "email": "joaopauloalbuquerque5777@gmail.com",
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "turno": "Noturno",
+        "nota": "7.0",
+        "situacao": "Aprovado",
+        "criadoEm": "2026-03-25 00:15:22"
+    },
+    {
+        "nome": "joao paulo de albuquerque alves",
+        "email": "joaopauloalbuquerque5777@gmail.com",
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "turno": "Noturno",
+        "nota": "7.0",
+        "situacao": "Aprovado",
+        "criadoEm": "2026-03-25 00:15:26"
+    }
+]
